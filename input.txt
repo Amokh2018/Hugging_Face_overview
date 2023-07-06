@@ -1,0 +1,15 @@
+Several independent Open Source foundations and projects have been actively using oneM2M.
+
+• OM2M, hosted by the Eclipse Foundation and part of Eclipse’s IoT Working Group: Offers a flexible oneM2M-based platform to implement horizontal M2M servers, gateways, and devices. It brings forward a modular architecture, running on top of an OSGi container, which is highly extensible via plug-ins.
+
+• OCEAN, open alliance for IoT standard, Open source implementations for oneM2M server/gateway/device platforms and applications are supported. Also, developer tools including platform resource browser, self-conformance testing tool are provided. The oneM2M implementations for open hardware like Raspberry Pi, Arduino are distributed to help oneM2M product development. Mobius, the oneM2M server implementation, got the oneM2M certification and it is designated as one of the golden samples.
+
+• OS-IoT, the ATIS Open Source Internet of Things is an open source software library that simplifies the development of IoT devices, particularly small clients, that connect to the oneM2M ecosystem.
+
+• OpenMTC is an integration middleware based on the oneM2M standard, for conducting applied research and developing innovative M2M and IoT applications. Its horizontal service approach easily integrates devices from different Industrial IoT verticals, independent of the underlying hardware or network infrastructure.
+
+• IOTDM, part of the OpenDaylight project hosted by the Linux Foundation: Developing a oneM2M-based IoT Data Broker to enable authorised applications to retrieve IoT data uploaded by any device.
+
+• OASIS SI, part of Open-source Architecture Semantic IoT Service-platform project: Developing code for the oneM2M-based IoT server platform. It consists of protocol binding, controller & resource handling and database layer for flexibility.
+
+• oneM2MTester is the world's first free open source conformance testing tool that developers can use to check the compliance of their platforms and applications with oneM2M specifications. The oneM2MTester is built upon Eclipse TITAN, which is a free open source TTCN-3 compilation and execution framework also supporting Eclipse IDE.
