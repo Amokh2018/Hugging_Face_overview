@@ -4,5 +4,5 @@ WORKDIR /webapp
 COPY webapp/* /webapp
 
 RUN pip install -r requirements.txt
-ENTRYPOINT ["uvicorn"]
-CMD ["--host","0.0.0.0","main:app"]
+#ENTRYPOINT ["uvicorn"]
+CMD ["python3","main.py"]
